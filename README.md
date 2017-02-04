@@ -1,0 +1,2 @@
+# django-superlists
+Learning Django
